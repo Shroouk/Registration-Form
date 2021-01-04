@@ -5,6 +5,6 @@ User interface designed with HTML,CSS,Bootstrap
 
 Form validation with jQuery
 
-![](img/capture1.PNG)
+![](img/Capture1.PNG)
 
-![](img/capture2.PNG)
+![](img/Capture2.PNG)
